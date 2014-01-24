@@ -3,7 +3,7 @@ FotoDB
 
 Purpose
 -----------
-Store, edit and View data for photo films. Print inlays for photo boxes
+Store, edit and retrieve data for photo films. Print inlays for photo boxes.
 
 Reqiurements
 --------------------
